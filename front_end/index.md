@@ -1,16 +1,16 @@
 Index
 =====
 
-* Example Post 1
-  * Author:
-  * Title:
-  * Approval Date:
-  * Publication Date:
-* Example Post 2
-  * Author:
-  * Title:
-  * Approval Date:
-  * Publication Date:
+* FEPM.md
+  * Author: James Meldrum
+  * Title: Leading From the Front - Project Management of a Front End Project
+  * Approval Date: null
+  * Publication Date: null
+* RDP.md
+  * Author: James Meldrum
+  * Title: Require.js Design Patterns
+  * Approval Date: null
+  * Publication Date: null
 
 Ideas
 =====
